@@ -8,8 +8,8 @@
     "lint": "vue-cli-service lint",
     "start": "node server.js"
   },
-  engines: {
-    "node": "16.x"
+  "engines": {
+  "node": "10.x"
   },
   "dependencies": {
     "@turf/turf": "^5.1.6",
